@@ -1,4 +1,4 @@
-<p align="center"><img src="https://datascijedi.github.io/website/images/jedi-logo-wide.png" alt="jedi-logo-wide" width="300"/></p>
+<p align="center"><img src="https://datascijedi.netlify.app/images/jedi-logo-wide.png" alt="jedi-logo-wide" width="300"/></p>
 
 ## Hi there 👋
 
